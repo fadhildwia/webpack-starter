@@ -1,5 +1,9 @@
 # 📦 Webpack & Alternatives
 
+<h1 align="center">
+  <img alt="MovieApps" title="MovieApps" src="./github/result.gif" width="400" />
+</h1>
+
 ## What is Webpack? 🤔
 
 **Webpack** is a powerful and flexible module bundler that lets you manage and bundle your JavaScript, CSS, images, and more into one or several optimized files for faster loading in the browser.
